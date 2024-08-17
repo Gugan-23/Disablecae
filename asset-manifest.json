@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/(Disablecare)/static/css/main.aaf3d7bf.css",
+    "main.js": "/(Disablecare)/static/js/main.3d2c1189.js",
+    "index.html": "/(Disablecare)/index.html",
+    "main.aaf3d7bf.css.map": "/(Disablecare)/static/css/main.aaf3d7bf.css.map",
+    "main.3d2c1189.js.map": "/(Disablecare)/static/js/main.3d2c1189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf3d7bf.css",
+    "static/js/main.3d2c1189.js"
+  ]
+}
